@@ -11,8 +11,6 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-
-
 @jakarta.persistence.Entity
 @Table(name = "employees")
 public class Employee {
